@@ -1,0 +1,6 @@
+annoy==1.17.2
+cltk-readers==0.5.3
+la-core-web-lg @ https://huggingface.co/latincy/la_core_web_lg/resolve/main/la_core_web_lg-any-py3-none-any.whl#sha256=03e29fbaae0bf583610f6c042b874441aa213aee238f2a63f413bb608fe6f100
+pandas==2.0.1
+spacy==3.5.2
+streamlit==1.22.0
