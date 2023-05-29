@@ -21,7 +21,7 @@ def load_data():
 
 data = load_data()
 index = TessAnnoyIndex(data["vector"], data["name"], data["citation"])
-index.load("tessannoy.ann")
+index.load("data/tessannoy.ann")
 
 
 if st.button("Show random verse"):
